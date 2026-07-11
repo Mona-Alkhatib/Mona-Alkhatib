@@ -1,4 +1,4 @@
-# Hi, I'm Mona Alkhatib 👋
+# Hi, I'm Mona 👋
 
 **Data Engineer & AI Tooling Builder** | Turning complex data pipelines into reliable, AI-augmented systems.
 
