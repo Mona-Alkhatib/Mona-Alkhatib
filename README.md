@@ -23,7 +23,7 @@ All projects include evals, tests, docs, and production-ready features.
 
 ---
 
-**Open to**: Data Engineering, AI Engineering, or ML Engineering roles where judgment + AI tooling can drive impact.
+**Open to**: Data Engineering, Backend, Platform, AI Engineering, or ML Engineering roles where judgment + AI tooling can drive impact.
 
 📍 Japan | [LinkedIn](https://www.linkedin.com/in/mona-alkhatib-a9b70b68/)
 
